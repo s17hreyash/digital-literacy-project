@@ -1,0 +1,26 @@
+# Stay Safe Online – Cybercrime Prevention Checklist
+
+## General Safety Practices
+- Never share your UPI PIN, OTP, or banking details with anyone
+- Use strong and unique passwords for all digital accounts
+- Enable two factor authentication (2FA) wherever possible
+- Avoid clicking on suspicious links or unknown attachments
+- Always verify the authenticity of websites before entering sensitive information
+
+## UPI and Financial Safety
+- Remember: Entering a UPI PIN means you are sending money, not receiving it
+- Do not accept payment requests from unknown individuals
+- Avoid scanning QR codes received from untrusted sources
+- Use only official and trusted payment apps (Google Pay, PhonePe, Paytm, etc.)
+- Immediately check transaction details before approving any payment
+
+## Safe Online Behavior
+- Do not share personal information (address, phone number, bank details) publicly
+- Be cautious while using public Wi-Fi for financial transactions
+- Regularly update apps and devices for security patches
+- Log out from accounts on shared or public devices
+
+## Reporting Cybercrime (India)
+- Report fraud immediately at: https://cybercrime.gov.in
+- Call Cyber Crime Helpline: 1930 (24x7)
+- Inform your bank as soon as possible to block further transactions
